@@ -1,0 +1,1 @@
+This is a Machine Learning Project submitted in IBM build-a-thon which is used to predict the churn rate of a telecom company.
